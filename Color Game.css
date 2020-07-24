@@ -27,7 +27,7 @@ body {
 }
 
 .c11 {
-	background-image: linear-gradient(to left, #fff 75%, #c3f5ff 25%);
+	background-image: linear-gradient(to left, #fff 80%, #c3f5ff 20%);
 	height: 100vh;
 	position: relative;
 }
