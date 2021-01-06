@@ -1,7 +1,7 @@
 # Color-Game
 Color Game
 
-This Game contains two levels (Easy and Hard), In easy level there will be three choices whereas in Hard leve there will be six choices.
+This Game contains two levels (Easy and Hard), In easy level there will be three choices whereas in Hard level there will be six choices.
 
 In each Game there will be a RGB(x,y,z) value of one color will be displayed and corrospondingly Six(or Three) Color will be displayed, for which player have to pick correct one.
 
